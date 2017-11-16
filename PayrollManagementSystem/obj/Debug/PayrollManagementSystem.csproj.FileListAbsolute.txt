@@ -1,0 +1,114 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\ApplicationInsights.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\csc.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\PayrollManagementSystem.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\PayrollManagementSystem.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\PayrollManagementSystem.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.Web.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.Web.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\obj\Debug\PayrollManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\obj\Debug\PayrollManagementSystem.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\obj\Debug\PayrollManagementSystem.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.pdfa.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.xtra.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.xmlworker.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\AjaxControlToolkit.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\AjaxControlToolkit.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PayrollManagementSystem\PayrollManagementSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\ApplicationInsights.config
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\csc.exe
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\vbc.exe
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\PayrollManagementSystem.dll.config
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\PayrollManagementSystem.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\PayrollManagementSystem.pdb
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.pdfa.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.xmlworker.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.xtra.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.Web.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.ApplicationInsights.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\AjaxControlToolkit.pdb
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\itextsharp.xml
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.Web.xml
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.ApplicationInsights.xml
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\ar\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\cs\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\de\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\es\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\fr\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\he\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\hi\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\it\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\ja\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\ko\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\nl\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\pl\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\pt\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\ru\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\obj\Debug\PayrollManagementSystem.csprojResolveAssemblyReference.cache
+D:\PayrollManagementSystem\PayrollManagementSystem\obj\Debug\PayrollManagementSystem.csproj.CoreCompileInputs.cache
+D:\PayrollManagementSystem\PayrollManagementSystem\obj\Debug\PayrollManagementSystem.dll
+D:\PayrollManagementSystem\PayrollManagementSystem\obj\Debug\PayrollManagementSystem.pdb

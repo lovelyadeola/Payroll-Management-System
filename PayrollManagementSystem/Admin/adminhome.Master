@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="adminhome.master.cs" Inherits="PayrollManagementSystem.Admin.adminhome" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" />
+  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+        <nav class="navbar navbar-inverse">
+              <div class="container-fluid">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand" href="home.aspx">Admin  Home</a>
+                </div>
+                  <div class="collapse navbar-collapse" id="myNavbar">
+                      <ul class="nav navbar-nav">
+                          
+                          <li class="dropdown"><a id="drop1" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">Add<span class="caret"></span></a>
+                             <ul class="dropdown-menu">
+                                 <li><a href="addemployee.aspx">Employee details</a></li>
+                                 <li><a href="addsalary.aspx">Salary details</a></li>
+                                 <li><a href="addjob.aspx">Job details</a></li>
+                                 <li><a href="addincentive.aspx">Incentive details</a></li>
+                                 <li><a href="adddeduction.aspx">Deduction details</a></li>
+                             </ul>
+                          </li>
+                          <li class="dropdown"><a id="drop2" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">View<span class="caret"></span></a>
+                              <ul class="dropdown-menu">
+                                  <li><a href="viewemployeedetails.aspx">Employee details</a></li>
+                                  <li><a href="viewjob.aspx">Job details</a></li>
+                                  <li><a href="viewsalary.aspx">Salary details</a></li>
+                                  <li><a href="viewdeduction.aspx">Deduction details</a></li>
+                                  <li><a href="viewincentive.aspx">Incentive details</a></li>
+                                  <li><a href="viewleaverequests.aspx">Leave Request</a></li>
+
+                                  <li><a href="viewleave.aspx">Leave details</a></li>
+                                  <li><a href="viewpayslip.aspx">Payslip details</a></li>
+                              </ul>
+                          </li>
+                          <li><a href="deleteemployee.aspx">Delete Employee</a></li>
+                          <li><a href="paysalary.aspx">Pay Salary</a></li>
+                      </ul>
+                      <ul class="nav navbar-nav navbar-right">
+                          <li><a href="../logout.aspx"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+                      </ul>
+                  </div>
+              </div>
+            </nav>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/jquery-3.1.1.min.js"></script>
+</body>
+</html>
