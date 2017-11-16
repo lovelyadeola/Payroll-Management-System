@@ -1,2 +1,1 @@
-# Payroll-Management-System
-Asp.net
+# Payroll Management System
