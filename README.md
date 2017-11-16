@@ -1,5 +1,6 @@
 # Payroll Management System
-Payroll Management System is used manage records of employees working in an organization.This system has two modules.
+Payroll Management System is used manage records of employees working in an organization.
+This system has two modules.
 (i)Admin (ii)Employee
 Admin can manage employees details like
 -Generating payslip.
